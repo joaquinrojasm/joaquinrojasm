@@ -1,16 +1,16 @@
-## Hi there 👋
+## Joaquín Alonso Rojas Morales
 
-<!--
-**joaquinrojasm/joaquinrojasm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sobre mí:
 
-Here are some ideas to get you started:
+- 🎓 Estudiante de cuarto año de la carrera de Ingeniería de Software de la San Ignacio de Loyoal (USIL).
+- 📓 Actualmente pasando al octavo ciclo de mi carrera.
+- 👨‍💻 Uso documentaciones para una mayor compresión de lo que quiero aprender.
+- 🌎 Tengo conocimientos de inglés avanzado, y pienso irme al extranjero, ya sea como internado o trabajo.
+- 💡 Tengo interés en desarrollar prácticas de desarrollo web y diseño UX/UI. 
+- ⚡ Estoy buscando capacitarme en el uso de frameworks (React, Node.js) y base de datos (PostgreSQL).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Habilidades técnicas:
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
